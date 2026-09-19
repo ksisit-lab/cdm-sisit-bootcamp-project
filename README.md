@@ -1,5 +1,17 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/test/badge.svg) ![](../../workflows/fpga/badge.svg)
 
+This repository contains a hardware-based cipher written in Verilog, designed for manufacturing on a custom silicon chip via the [TinyTapeout](https://tinytapeout.com) project. 
+
+## View the Project
+
+* **3D Chip Layout:** [[Paste your GitHub Pages URL here]](https://gds-viewer.tinytapeout.com/?pdk=sky130A&model=https%3A%2F%2Fksisit-lab.github.io%2Fcdm-sisit-bootcamp-project%2F%2Ftinytapeout.oas)
+
+## Overview
+
+This project implements digital cipher logic in silicon. It processes binary plaintext and key inputs via the chip's input pins (`ui_in`) and outputs the encrypted ciphertext to the output pins (`uo_out`). 
+
+For a detailed breakdown of the pinout mapping and step-by-step testing instructions, please view the [project documentation](docs/info.md) or visit the 3D Chip Layout link above.
+
 # Tiny Tapeout Verilog Project Template
 
 - [Read the documentation for project](docs/info.md)
