@@ -1,5 +1,6 @@
 # Tiny Tapeout project information
 project:
+  wokwi_id: 475580589633937409
   title:        "LFSR Stream Cipher"      # Project title
   author:       "Rohcell King D. Sisit"      # Your name
   discord:      "minjun0311"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
