@@ -1,7 +1,7 @@
 # Tiny Tapeout project information
 project:
   title:        "LFSR Stream Cipher"      # Project title
-  author:       "Rohcell King Sisit"      # Your name
+  author:       "Rohcell King D. Sisit"      # Your name
   discord:      "minjun0311"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "A 4-bit LFSR-based hardware stream cipher."      # One line description of what your project does
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
